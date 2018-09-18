@@ -1,5 +1,6 @@
 public class WebScraper {
-public static void main (String[] unused){
+
+    public static void main (String[] unused){
     System.out.println("No");
 }
 }
